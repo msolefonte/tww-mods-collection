@@ -23,7 +23,7 @@ Check my mods for Total War: Warhammer:
 * [Half Confederation Penalities](http://steamcommunity.com/sharedfiles/filedetails/?id=1132916263)
 * [Impossible Quest Battle Teleport](https://steamcommunity.com/sharedfiles/filedetails/?id=1118164395)
 * [No Battle Notifications](http://steamcommunity.com/sharedfiles/filedetails/?id=1132916287)
-* [Norsca: Loot & Raze](https://steamcommunity.com/sharedfiles/filedetails/?id=1132916287)
+* [Norsca: Loot & Raze](https://steamcommunity.com/sharedfiles/filedetails/?id=1118362434)
 * [Norsca: Loot & Raze for the Gods](https://steamcommunity.com/sharedfiles/filedetails/?id=1118471309)
 * [Wolfy's Faction Traits](http://steamcommunity.com/sharedfiles/filedetails/?id=1107494226)
 
