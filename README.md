@@ -30,4 +30,4 @@ This is complete list of the mods here shared and their Steam Workshop page:
 * [Wolfy's Faction Traits](http://steamcommunity.com/sharedfiles/filedetails/?id=1107494226)
 
 Want to support my work? Feel free to donate via
-[PayPal](paypal.me/echaravolar).
+[PayPal](https://paypal.me/echaravolar).
