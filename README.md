@@ -30,6 +30,3 @@ This is complete list of the mods here shared and their Steam Workshop page:
 * [Norsca: Loot & Raze](https://steamcommunity.com/sharedfiles/filedetails/?id=1118362434)
 * [Norsca: Loot & Raze for the Gods](https://steamcommunity.com/sharedfiles/filedetails/?id=1118471309)
 * [Wolfy's Faction Traits](http://steamcommunity.com/sharedfiles/filedetails/?id=1107494226)
-
-Want to support my work? Feel free to donate via
-[PayPal](https://paypal.me/echaravolar).
