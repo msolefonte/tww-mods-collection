@@ -44,4 +44,4 @@ Check my mods for Total War: Warhammer:
 * [Norsca: Loot & Raze for the Gods](https://steamcommunity.com/sharedfiles/filedetails/?id=1118471309)
 * [Wolfy's Faction Traits](http://steamcommunity.com/sharedfiles/filedetails/?id=1107494226)
 
-[GitHub Mod Page](https://github.com/msolefonte/tww-mods-collection/mods/norsca-loot-and-raze)
+[GitHub Mod Page](https://github.com/msolefonte/tww-mods-collection/mods/faction-unlocker-submod-destruction-factions)
