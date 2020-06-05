@@ -3,7 +3,7 @@
 ![Rate & Favorite](https://i.imgur.com/fVVaDCS.gif)
 
 Want to support my work? Feel free to donate via
-[PayPal](paypal.me/echaravolar).
+[PayPal](https://paypal.me/echaravolar).
 
 I love the new mechanical of Raze for a Chaos God added to Norsca, but what if I
 don't want it for a God? Can't I be an atheist? That's racist! Well, the main

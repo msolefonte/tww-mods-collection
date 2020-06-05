@@ -3,7 +3,7 @@
 ![Rate & Favorite](https://i.imgur.com/fVVaDCS.gif)
 
 Want to support my work? Feel free to donate via
-[PayPal](paypal.me/echaravolar).
+[PayPal](https://paypal.me/echaravolar).
 
 Try to be loreful is like quitting smoking. You can try to avoid it but if you
 have the cigar in your pocket you will end catching it. This mod is born with

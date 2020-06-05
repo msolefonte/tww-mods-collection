@@ -3,7 +3,7 @@
 ![Rate & Favorite](https://i.imgur.com/fVVaDCS.gif)
 
 Want to support my work? Feel free to donate via
-[PayPal](paypal.me/echaravolar).
+[PayPal](https://paypal.me/echaravolar).
 
 Sometimes having to teleport by 4500 when the mission is going to give 5000 not
 only does not contribute but is annoying. Tired of having to pay barbarities for

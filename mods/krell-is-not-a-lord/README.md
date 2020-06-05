@@ -3,7 +3,7 @@
 ![Rate & Favorite](https://i.imgur.com/fVVaDCS.gif)
 
 Want to support my work? Feel free to donate via
-[PayPal](paypal.me/echaravolar).
+[PayPal](https://paypal.me/echaravolar).
 
 **THIS MOD IS OBSOLETE. KRELL IS NOT A LORD ANYMORE IN CFU+**
 

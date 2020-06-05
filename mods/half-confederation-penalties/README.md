@@ -3,7 +3,7 @@
 ![Rate & Favorite](https://i.imgur.com/fVVaDCS.gif)
 
 Want to support my work? Feel free to donate via
-[PayPal](paypal.me/echaravolar).
+[PayPal](https://paypal.me/echaravolar).
 
 Confederation penalties for Dwarfs, Empire, Greenskins and Vampire Counts
 reduced from -40 Diplomatic relations and -8 Public order to -20 Diplomatic

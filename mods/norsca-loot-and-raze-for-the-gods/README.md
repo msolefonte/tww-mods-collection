@@ -3,7 +3,7 @@
 ![Rate & Favorite](https://i.imgur.com/fVVaDCS.gif)
 
 Want to support my work? Feel free to donate via
-[PayPal](paypal.me/echaravolar).
+[PayPal](https://paypal.me/echaravolar).
 
 Norscan factions have a really bad economy and you need to loot a lot to have a
 decent income but you still need to raze to destroy your enemies. This is the

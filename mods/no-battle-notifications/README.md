@@ -3,7 +3,7 @@
 ![Rate & Favorite](https://i.imgur.com/fVVaDCS.gif)
 
 Want to support my work? Feel free to donate via
-[PayPal](paypal.me/echaravolar).
+[PayPal](https://paypal.me/echaravolar).
 
 This mod just removes the icon and the text that notifies changes on your army,
 enemy army or allies just like "Your lord is under attack!" or "Your units are

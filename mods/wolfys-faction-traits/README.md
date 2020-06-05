@@ -3,7 +3,7 @@
 ![Rate & Favorite](https://i.imgur.com/fVVaDCS.gif)
 
 Want to support my work? Feel free to donate via
-[PayPal](paypal.me/echaravolar).
+[PayPal](https://paypal.me/echaravolar).
 
 I'm a really lover of [Crynsos' Faction Unlocker+](https://steamcommunity.com/workshop/filedetails/?id=889766098) but I was really annoyed
 because there are a lot of factions and lord without traits nor stuff that
